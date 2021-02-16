@@ -28,6 +28,6 @@ jkbjkb
 ## college site
 [kits](https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
 ## inserting image
-![pic](https://github.com/ashajyothi204/markdown/blob/main/README.md)
+![image](https://github.com/ashajyothi204/markdown/blob/master/983794168.jpg)
 
 
