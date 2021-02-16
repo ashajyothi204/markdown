@@ -14,3 +14,12 @@ print("hello kits eee");
 ```
 fun()
 ```
+## write a c program to print appssdc
+```
+#includestdio.h
+int main()
+{
+jkhgj
+hgj
+jkbjkb
+```
