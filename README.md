@@ -27,3 +27,5 @@ jkbjkb
 [ajio](https://www.ajio.com/)
 ## college site
 [kits](https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
+## inserting image
+![pic](nhttps://github.com/ashajyothi204/markdow)
